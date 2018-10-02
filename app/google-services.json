@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "617854353564",
+    "firebase_url": "https://myhealth-c8969.firebaseio.com",
+    "project_id": "myhealth-c8969",
+    "storage_bucket": "myhealth-c8969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617854353564:android:582c2dda75bf2675",
+        "android_client_info": {
+          "package_name": "com.example.android.myhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617854353564-vca3u08g3bj6m275i98fp115nj1eho0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwRQVuRQWrO5Kx5zOY0-0nkGX5_2Ct4nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
