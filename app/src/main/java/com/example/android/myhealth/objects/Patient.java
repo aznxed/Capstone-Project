@@ -5,11 +5,17 @@ import java.util.Date;
 
 public class Patient extends Person{
 
+    private String id;
     private ArrayList<Diagnosis> diagnoses;
     private ArrayList<Medication> medications;
     private ArrayList<Allergy> allergies;
     private ArrayList<Appointment> appointments;
     private ArrayList<Provider> providers;
+
+    public Patient(String id){
+        super();
+        this.id = id;
+    }
 
     public Patient(String firstName, String middleName, String lastName, String dateOfBirth, String gender) {
         super(firstName, middleName, lastName, dateOfBirth, gender);

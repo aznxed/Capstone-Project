@@ -15,13 +15,21 @@
       },
       "oauth_client": [
         {
+          "client_id": "617854353564-v3t6j9nrt0ep08ubug09alnjj7lfalju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.myhealth",
+            "certificate_hash": "288258191e3ac92254c9d7beadab6b8b84cdd21f"
+          }
+        },
+        {
           "client_id": "617854353564-vca3u08g3bj6m275i98fp115nj1eho0i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "INSERT KEY HERE"
+          "current_key": "AIzaSyDwRQVuRQWrO5Kx5zOY0-0nkGX5_2Ct4nw"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617854353564-vca3u08g3bj6m275i98fp115nj1eho0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

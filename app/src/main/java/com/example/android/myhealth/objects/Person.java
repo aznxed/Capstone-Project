@@ -9,6 +9,10 @@ public class Person {
     private String dateOfBirth;
     private String gender;
 
+    public Person(){
+
+    }
+
     public Person(String firstName, String middleName, String lastName, String dateOfBirth, String gender){
         this.firstName = firstName;
         this.middleName = middleName;
